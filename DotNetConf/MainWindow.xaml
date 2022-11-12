@@ -52,7 +52,7 @@
             <Button Name="B2" Click="DigitBtn_Click" Grid.Column="5" Grid.Row="4" Background="{StaticResource 3}" FontWeight="Bold" Foreground="White" BorderBrush="#FFBFC7D9">2</Button>
             <Button Name="B3" Click="DigitBtn_Click" Grid.Column="6" Grid.Row="4" Background="{StaticResource 3}" FontWeight="Bold" Foreground="White" BorderBrush="#FFBFC7D9">3</Button>
             <Button Name="B0" Click="DigitBtn_Click" Grid.Column="4" Grid.Row="5" Background="{StaticResource 3}" FontWeight="Bold" Foreground="White" BorderBrush="#FFBFC7D9">0</Button>
-            <Button Name="BPeriod" Click="DigitBtn_Click" Grid.Column="5" Grid.Row="5" Background="{StaticResource 3}" FontWeight="Bold" Foreground="White" BorderBrush="#FFBFC7D9">.</Button>
+            <Button Name="BPeriod" Click="DigitBtn_Click" Grid.Column="5" Grid.Row="5" Background="{StaticResource 3}" FontWeight="Bold" Foreground="White" BorderBrush="#FFBFE7D9">.</Button>
             <Button Name="BPM" Click="OperBtn_Click" Background="{StaticResource 1}" Grid.Column="6" Grid.Row="5" Foreground="White" FontWeight="Bold" BorderBrush="#FFBFC7D9">+/-</Button>
             <Button Name="BDevide" Click="OperBtn_Click" Background="{StaticResource 1}" Grid.Column="7" Grid.Row="2" Foreground="White" FontWeight="Bold" BorderBrush="#FFBFC7D9">/</Button>
             <Button Name="BMultiply" Click="OperBtn_Click" Background="{StaticResource 1}" Grid.Column="7" Grid.Row="3" Foreground="White" FontWeight="Bold" BorderBrush="#FFBFC7D9">*</Button>
